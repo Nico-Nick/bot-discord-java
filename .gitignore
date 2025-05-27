@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Token ou configs sensíveis
+*.env
+token.txt
+
+# Arquivos compilados
+*.class
