@@ -20,6 +20,6 @@ Um bot para o Discord.com criado em **Java**
   [JDA (Java Discord API)](https://github.com/discord-jda/JDA).
 -
 
-##Em breve mais funcionalidades...
+## Em breve mais funcionalidades...
  
  Integração futura com modelos de IA
